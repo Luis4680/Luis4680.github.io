@@ -8,3 +8,21 @@
 .info-img {
     font-size: 15px;
 }
+body {
+    font-size: 25px;
+}
+.titulo {
+    font-size: 1.75em;
+}
+#indice {
+    font-size: 30px;
+}
+#test {
+    border: 1px solid #a2a9b1;
+    background-color: #f8f9fa;
+    font-size: 95%;
+    margin-right: 30%;
+    margin-left: 30px;
+    padding: 1px 20px 20px 20px;
+    display: table;
+}
