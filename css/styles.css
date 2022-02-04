@@ -1,12 +1,12 @@
 .header {
     padding: 60px;
-    font-size: 1.75;
+    font-size: 1.75em;
     background-color: rgb(175, 24, 4);
     text-align: center;
     color: white;
 }
 .info-img {
-    font-size: .75em;
+    font-size: 15px;
 }
 body {
     font-size: 50px;
@@ -15,10 +15,13 @@ body {
     font-size: 1.75em;
 }
 #indice {
-    font-size: 30px;
+    font-size: 1.5em;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
 }
 #test {
-    border: 1px solid #a2a9b1;
+    border: 3px solid #898f96;
     background-color: #f8f9fa;
     font-size: 95%;
     margin-right: 30%;
