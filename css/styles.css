@@ -1,6 +1,6 @@
 .header {
     padding: 60px;
-    font-size: 30px;
+    font-size: 1.75;
     background-color: rgb(175, 24, 4);
     text-align: center;
     color: white;
@@ -10,9 +10,6 @@
 }
 body {
     font-size: 50px;
-}
-.header {
-    font-size: 4em;
 }
 .titulo {
     font-size: 1.75em;
