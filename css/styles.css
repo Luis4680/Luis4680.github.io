@@ -7,9 +7,10 @@
 }
 .info-img {
     font-size: 15px;
+    color:#6e7072;
 }
 body {
-    font-size: 50px;
+    font-size: 30px;
 }
 .titulo {
     font-size: 1.75em;
@@ -19,13 +20,14 @@ body {
     margin-top: 15px;
     margin-right: 15px;
     margin-bottom: 15px;
+    text-align: center;
 }
 #test {
     border: 3px solid #898f96;
     background-color: #f8f9fa;
     font-size: 95%;
     margin-right: 30%;
-    margin-left: 30px;
+    margin-left: auto;
     padding: 1px 20px 20px 20px;
     display: table;
 }
