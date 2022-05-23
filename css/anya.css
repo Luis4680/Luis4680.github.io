@@ -1,0 +1,49 @@
+* {
+    font-family: 'intro-regular', sans-serif;
+    margin: 0;
+}
+header{
+    background-image: url("bandera\ de\ francia\ papa.png");
+    background-size: 100%;
+    padding: 100px;
+    text-align: center;
+    color: black;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+.line-below {
+    background: black;
+    padding: 4px;
+    margin-bottom: 7px;
+}
+.introduction {
+    margin-bottom: 10px;
+}
+.table-contents {
+    border: 3px solid #3f5c99;
+    border-radius: 15px;
+    background-color: #e4e4e4;
+    font-size: 105%;
+    margin-right: 30%;
+    margin-left: 30px;
+    padding: 1px 20px 20px 20px;
+    display: table;
+    margin-bottom: 10px;
+}
+.space-white {
+    width: 35%;
+    padding: 1px;
+    float: right;
+}
+img {
+    padding: 10px 10px;
+    
+}
+.tittle {
+    border-left: 7px solid darkred;
+    background-color: rgb(102, 142, 202);
+    padding: 3px 0;
+    padding-left: 2px;
+    
+}
+
