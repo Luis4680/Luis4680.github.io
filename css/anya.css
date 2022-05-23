@@ -1,6 +1,8 @@
 * {
     font-family: 'intro-regular', sans-serif;
     margin: 0;
+    font-size: 15px;
+    padding: 8px 10px 10px 0px;
 }
 header{
     background-image: url("bandera\ de\ francia\ papa.png");
@@ -43,7 +45,7 @@ img {
     border-left: 7px solid darkred;
     background-color: rgb(102, 142, 202);
     padding: 3px 0;
-    padding-left: 2px;
+    padding-left: 5px;
     
 }
 
