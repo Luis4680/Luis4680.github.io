@@ -1,37 +1,49 @@
-.header {
-    padding: 60px;
-    font-size: 1.3em;
-    background-color: rgb(175, 24, 4);
+* {
+    font-family: 'intro-regular', sans-serif;
+    margin: 0;
+}
+header{
+    background-image: url("bandera\ de\ francia\ papa.png");
+    background-size: 100%;
+    padding: 100px;
     text-align: center;
-    color: white;
+    color: black;
+    background-repeat: no-repeat;
+    margin: 0;
 }
-.info-img {
-    font-size: 15px;
-    color:#6e7072;
+.line-below {
+    background: black;
+    padding: 4px;
+    margin-bottom: 7px;
 }
-body {
-    font-size: 30px;
+.introduction {
+    margin-bottom: 10px;
 }
-.titulo {
-    font-size: 1.75em;
-}
-#indice {
-    font-size: 1.5em;
-    margin-top: 15px;
-    margin-right: 15px;
-    margin-bottom: 15px;
-    text-align: center;
-}
-#test {
-    border: 3px solid #898f96;
-    background-color: #f8f9fa;
-    font-size: 95%;
+.table-contents {
+    border: 3px solid #3f5c99;
+    border-radius: 15px;
+    background-color: #e4e4e4;
+    font-size: 105%;
     margin-right: 30%;
     margin-left: 30px;
     padding: 1px 20px 20px 20px;
     display: table;
+    margin-bottom: 10px;
 }
-.dato-resaltar {
-    font-size: .8em;
-    color: gray;
+.space-white {
+    width: 35%;
+    padding: 1px;
+    float: right;
 }
+img {
+    padding: 10px 10px;
+    
+}
+.tittle {
+    border-left: 7px solid darkred;
+    background-color: rgb(102, 142, 202);
+    padding: 3px 0;
+    padding-left: 2px;
+    
+}
+
